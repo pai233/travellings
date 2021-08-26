@@ -61,7 +61,7 @@
   - 💡 参考代码：（logo.gif 可替换为上方的其他图片，以适应您的网页主题；width 可限制图片的大小，让徽标看起来更合适。）
   - 🚀 CDN加速：如以上图片素材加载缓慢，可将链接中的 `https://travellings.link/assets/` 替换为 `https://cdn.jsdelivr.net/gh/volfclub/travellings@12.0/assets/` 。
 
-```
+```html
 <a href="https://travellings.link/" target="_blank" rel="noopener" title="开往-友链接力">
     <img src="https://travellings.link/assets/logo.gif" alt="开往-友链接力" width="120">
 </a>
